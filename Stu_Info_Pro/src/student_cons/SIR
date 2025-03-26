@@ -1,0 +1,22 @@
+SIR,
+suppose
+INPUT:
+number of sutdents =3	
+
+madhab							////name////
+24052							////roll////
+4								////current year////
+
+rahel
+24051
+4
+
+joni
+23041
+3
+
+output:
+
+NAME=madhab ROLL=24052
+NAME=rahel  ROLL=24051
+NAME=joni   ROLL=23041
