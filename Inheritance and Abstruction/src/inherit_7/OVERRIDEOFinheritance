@@ -1,0 +1,12 @@
+package inherit_7;
+
+public class Two extends One {
+	Two(int a,int b){
+	
+	}
+	
+	void sum(){
+		System.out.println(a+b+5);
+	}
+	
+}
